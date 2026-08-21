@@ -1,0 +1,17 @@
+beautifulsoup4
+faiss-cpu
+fastapi
+langchain-core
+langchain-openai
+langgraph
+neo4j
+numpy
+playwright
+pydantic
+python-dotenv
+requests
+sentence-transformers
+streamlit
+tqdm
+uvicorn
+volcengine-python-sdk
